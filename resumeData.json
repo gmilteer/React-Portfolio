@@ -87,7 +87,7 @@
       {
         "title": "Project 1",
         "category": "Covid Testing Center Locator",
-        "image": "Eat-The-Burger.png",
+        "image": "./images/portfolio/project1.png",
         "url": "https://easyacres.github.io/TestingCenterLocator/"
       },
       {
@@ -99,7 +99,7 @@
       {
         "title": "Eat The Burger App",
         "category": "Burger App",
-        "image": "Eat-The-Burger.png",
+        "image": "reactportfolio/public/images/portfolio/Eat-The-Burger.png",
         "url": "https://powerful-badlands-92622.herokuapp.com/"
       },
       {
