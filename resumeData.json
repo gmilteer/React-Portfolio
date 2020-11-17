@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Georgia Milteer",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack React Developer by day, mother at night",
+    "image": "https://i.postimg.cc/rsyWstQP/familyphoto.jpg",
+    "bio": "My name is Georgia Milteer. I am a mother to an adorable two year old, Haiden. I am also a business professional who has become a full stack developer through GA Tech's bootcamp program. My websites offer seamless navigation, visually aesthetic UI's, and mobile responsiveness to ensure optimal user experiences.",
+    "contactmessage": "Please feel free to reach out to receive further details.",
+    "email": "gmilteer@gmail.com",
+    "phone": "478-320-3553",
+    "address": {
+      "street": "381 Ralph Mcgill Blvd Unit I",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30312"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://docs.google.com/document/d/1W2FG-iI43y_4Ln6PHJCIyqpOsuXxWn7H_OhYiZtdM8o/edit?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/georgia-milteer-6896bb125",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gmilteer",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "gmail",
+        "url": "mailto:gmilteer@gmail.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can see a quick overview of my credentials",
+    "education": [
+      {
+        "school": "Park University",
+        "degree": "Bachelor of Applied Science in Business Administration and Management Science",
+        "graduated": "May 2016",
+        "description": "Graduated on Dean's List"
+      }
+    ],
+    "work": [
+      {
+        "company": "Alliance Inspection Management",
+        "title": "Dispatch Logistics Coordinator",
+        "years": "November 2018 - Present",
+        "description": "Coordinate with our MI team to schedul inspectors to different dealerships."
+      },
+      {
+        "company": "Enterprise Rent-a-Car ",
+        "title": "Car Sales Administrator",
+        "years": "September 2016 – September 2018",
+        "description": "Managed relationships with 2-3 remarketers, including communicating with their dealerships, preparing titles for sold units, and collecting payments. I would also relay any dealer issues with each remarketer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project 1",
+        "category": "Covid Testing Center Locator",
+        "image": "https://i.postimg.cc/4NbMrC94/project1.png",
+        "url": "https://easyacres.github.io/TestingCenterLocator/"
+      },
+      {
+        "title": "Project 2",
+        "category": "YouFO Locator",
+        "image": "https://i.postimg.cc/GtvPTCC4/Project2.png",
+        "url": "https://youfo.herokuapp.com/"
+      },
+      {
+        "title": "Eat The Burger App",
+        "category": "Burger App",
+        "image": "https://i.postimg.cc/BbfYVNZ1/Eat-The-Burger.png",
+        "url": "https://powerful-badlands-92622.herokuapp.com/"
+      },
+      {
+        "title": "Note-Taker",
+        "category": "Note-Taker app",
+        "image": "https://i.postimg.cc/J4mY3Tdf/Note-Taker.png",
+        "url": "https://peaceful-wildwood-79779.herokuapp.com/"
+      },
+      {
+        "title": "Budget-Tracker Online/offline",
+        "category": "budget tracker",
+        "image": "https://i.postimg.cc/wj4Wp9Tz/Budget-Tracker.png",
+        "url": "https://intense-ocean-77972.herokuapp.com/"
+      },
+      {
+        "title": "Weather-Dashboard",
+        "category": "Weather app",
+        "image": "https://i.postimg.cc/25P21TZX/weather-dashboard.png",
+        "url": "https://gmilteer.github.io/Weather-Dashboard-HW/"
+      },
+      {
+        "title": "Password Generator",
+        "category": "Password Generator",
+        "image": "https://i.postimg.cc/MpHDtg0F/Password-Generator-HW.jpg",
+        "url": "https://gmilteer.github.io/Password-Generator-HW/"
+      }
+    ]
+  }
+}
