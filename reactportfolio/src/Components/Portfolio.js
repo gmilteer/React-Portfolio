@@ -2,17 +2,15 @@ import React, { Component } from "react";
 
 class Portfolio extends Component {
   render() {
-    // reactportfolio/public/images/portfolio/project1.png
     if (this.props.data) {
       console.log(this.props.data);
       var projects = this.props.data.projects.map(function (project) {
-        var projectImage = "/images/porfolio" + project.image;
-        // const projectImage = "https://via.placeholder.com/200x200";
+        console.log(project);
         return (
           <div key={project.title} className="columns portfolio-item">
             <div className="item-wrap">
               <a href={project.url} title={project.title}>
-                <img alt={project.title} src={projectImage} />
+                <img alt={project.title} src={project.image} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{project.title}</h5>

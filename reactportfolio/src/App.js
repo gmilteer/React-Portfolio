@@ -24,6 +24,7 @@ class App extends Component {
       cache: false,
       success: function (data) {
         this.setState({ resumeData: data });
+        console.log(data);
       }.bind(this),
       error: function (xhr, status, err) {
         console.log(err);

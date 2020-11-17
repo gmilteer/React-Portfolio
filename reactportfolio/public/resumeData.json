@@ -3,7 +3,7 @@
     "name": "Georgia Milteer",
     "occupation": "Full Stack Developer",
     "description": "Full Stack React Developer by day, mother at night",
-    "image": "familyphoto.jpg",
+    "image": "https://i.postimg.cc/rsyWstQP/familyphoto.jpg",
     "bio": "My name is Georgia Milteer. I am a mother to an adorable two year old, Haiden. I am also a business professional who has become a full stack developer through GA Tech's bootcamp program. My websites offer seamless navigation, visually aesthetic UI's, and mobile responsiveness to ensure optimal user experiences.",
     "contactmessage": "Please feel free to reach out to receive further details.",
     "email": "gmilteer@gmail.com",
@@ -87,43 +87,43 @@
       {
         "title": "Project 1",
         "category": "Covid Testing Center Locator",
-        "image": "project1.png",
+        "image": "https://i.postimg.cc/4NbMrC94/project1.png",
         "url": "https://easyacres.github.io/TestingCenterLocator/"
       },
       {
         "title": "Project 2",
         "category": "YouFO Locator",
-        "image": "Project2.png",
+        "image": "https://i.postimg.cc/GtvPTCC4/Project2.png",
         "url": "https://youfo.herokuapp.com/"
       },
       {
         "title": "Eat The Burger App",
         "category": "Burger App",
-        "image": "Eat-The-Burger.png",
+        "image": "https://i.postimg.cc/BbfYVNZ1/Eat-The-Burger.png",
         "url": "https://powerful-badlands-92622.herokuapp.com/"
       },
       {
         "title": "Note-Taker",
         "category": "Note-Taker app",
-        "image": "Note-Taker.png",
+        "image": "https://i.postimg.cc/J4mY3Tdf/Note-Taker.png",
         "url": "https://peaceful-wildwood-79779.herokuapp.com/"
       },
       {
         "title": "Budget-Tracker Online/offline",
         "category": "budget tracker",
-        "image": "Budget-Tracker.png",
+        "image": "https://i.postimg.cc/wj4Wp9Tz/Budget-Tracker.png",
         "url": "https://intense-ocean-77972.herokuapp.com/"
       },
       {
         "title": "Weather-Dashboard",
         "category": "Weather app",
-        "image": "Weather-Dashboard.png",
+        "image": "https://i.postimg.cc/25P21TZX/weather-dashboard.png",
         "url": "https://gmilteer.github.io/Weather-Dashboard-HW/"
       },
       {
         "title": "Password Generator",
-        "category": "Passwork Generator",
-        "image": "Password-Generator-HW.jpg",
+        "category": "Password Generator",
+        "image": "https://i.postimg.cc/MpHDtg0F/Password-Generator-HW.jpg",
         "url": "https://gmilteer.github.io/Password-Generator-HW/"
       }
     ]
